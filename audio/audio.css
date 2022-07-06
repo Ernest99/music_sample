@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+a {
+    color: #fff;
+}
+
+nav {
+    width: 100%;
+    padding: 1rem 18%;
+    background-color: dodgerblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul li {
+    display: inline-block;
+    margin-right: 1rem;
+    list-style: none;
+}
+
+ul li a {
+    text-decoration: none;
+}
